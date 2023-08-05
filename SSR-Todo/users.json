@@ -1,0 +1,49 @@
+[
+  {
+    "username": "pragya",
+    "password": "dddd",
+    "tasks": [
+      {
+        "description": "get groceries",
+        "id": 2,
+        "completed": false
+      },
+      {
+        "description": "get groceries",
+        "id": 1,
+        "completed": true
+      },
+      {
+        "description": "task1",
+        "id": 1,
+        "completed": false
+      },
+      {
+        "description": "get milk",
+        "id": 1,
+        "completed": false
+      },
+      {
+        "description": "task1pragya",
+        "id": 1,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "username": "sam",
+    "password": "aaaa",
+    "tasks": [
+      {
+        "description": "task1sam",
+        "id": 1,
+        "completed": false
+      },
+      {
+        "description": "task2sam",
+        "id": 2,
+        "completed": false
+      }
+    ]
+  }
+]
